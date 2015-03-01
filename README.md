@@ -8,8 +8,8 @@ See this picture. In Web Standards, timing object doesn't have firstPaint proper
 
 # How to use ?
 
-Download this library and load it on your website like this.
+Download this library and load it on your web site like this.
 
-    <script src="js/FirstPaintAdd.js></script>
+    <script src="js/FirstPaintAdd.js"></script>
 
 Only IE9+ and Chrome can work. Safari, Firefox and Opera might not be implemented until the developer's adaption is changed.

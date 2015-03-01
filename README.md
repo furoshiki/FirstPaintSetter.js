@@ -1,8 +1,8 @@
 # FirstPaintAddJS
 
-This library enables you getting the first paint time via JavaScript API. Actually we already have a JavaScript API(window.performance.timing object) for performance auditing, but it doesn't have an interface to get first paint. This library tries to get that time and set it to window.performance.timing Object.
+This library enables you getting the first paint time via JavaScript API. Actually we already have a JavaScript API(window.performance.timing object) for performance auditing, but it doesn't have an interface to get first paint. This library tries to get that time and set it to the property 'firstPaint' of window.performance.timing object.
 
-See this picture. In Web Standards, timing object doesn't have firstPaint property. This library set it.
+See this picture. In Web Standards, timing object doesn't have firstPaint property. This library does it.
 
 ![Timingオブジェクト](http://furoshiki.github.io/readme_img/001.jpg)
 

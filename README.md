@@ -12,4 +12,4 @@ Download this library and load it on your website like this.
 
     <script src="js/FirstPaintAdd.js></script>
 
-Only IE9+ and Chrome can work. Safari, Firefox and Opera might not be implemented until adaption is changed.
+Only IE9+ and Chrome can work. Safari, Firefox and Opera might not be implemented until the developer's adaption is changed.

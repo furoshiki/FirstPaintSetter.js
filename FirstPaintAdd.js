@@ -1,5 +1,5 @@
 /****************************************
- * FirstPaintAddJS
+ * FirstPaintSetter.js
  * Copyright (c) 2015 Hiroshi Kawada(@kawada_hiroshi)
  * Released under the MIT license
  */

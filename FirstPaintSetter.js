@@ -1,6 +1,6 @@
 /****************************************
  * FirstPaintSetter.js
- * Copyright (c) 2015 Hiroshi Kawada(@kawada_hiroshi)
+ * Copyright (c) 2015 Hiroshi Kawada(@_furoshiki)
  * Released under the MIT license
  */
 window.addEventListener
